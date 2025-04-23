@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="tpu7mdlxo_9emIjloZ0v">
-    <mxGraphModel dx="872" dy="1583" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="483" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bsVf9-yuKipysINyuRF7-1" value="Ketua Laboratorium Fakultas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-60" width="120" height="60" as="geometry" />
+          <mxGeometry x="11" y="94" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bsVf9-yuKipysINyuRF7-2" value="Koordinator Lab Jurusan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="181" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bsVf9-yuKipysINyuRF7-3" value="Ketua Jurusan&lt;div&gt;Teknik Informatika&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="181" y="94" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bsVf9-yuKipysINyuRF7-4" value="Dosen Pengampu Praktikum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="181" y="320" width="120" height="60" as="geometry" />
@@ -56,6 +56,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="331" y="490" as="sourcePoint" />
             <mxPoint x="251" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsVf9-yuKipysINyuRF7-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bsVf9-yuKipysINyuRF7-2" target="bsVf9-yuKipysINyuRF7-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="146" as="sourcePoint" />
+            <mxPoint x="360" y="96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsVf9-yuKipysINyuRF7-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bsVf9-yuKipysINyuRF7-2" target="bsVf9-yuKipysINyuRF7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="251" y="220" as="sourcePoint" />
+            <mxPoint x="251" y="164" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
